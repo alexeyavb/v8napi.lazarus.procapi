@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
+  <Params Value=" -Twin64 -Px86_64 -Rintel -MDelphi -Sc -CirotR -gs -gl -Xg -l -vewnhibq &quot;-FuD:\v8nativ_laz — копия\demo\&quot; &quot;-oD:\v8nativ_laz — копия\demo\demo.dll&quot; demo.lpr"/>
+</CONFIG>
